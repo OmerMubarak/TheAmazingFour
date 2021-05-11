@@ -1,0 +1,1 @@
+When you start programming, people push you to github and then you commit to github.
